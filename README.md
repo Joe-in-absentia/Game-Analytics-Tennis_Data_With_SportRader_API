@@ -61,20 +61,28 @@ Streamlit Platform
 
 ---
 
-## 📸 Application UI Screenshots
+<h2>📸 Application UI Preview</h2>
 
-### Dashboard View
+<p align="center">
+<img src="Screenshot (1).png" width="800">
+</p>
 
-![Dashboard](images/dashboard.png)
-
-### Event Analysis View
-
-![Events](images/events.png)
-
-### Competition Insights
-
-![Analysis](images/analysis.png)
+<p align="center"><b>Competition Details Viewer</b></p>
 
 ---
+
+<p align="center">
+<img src="Screenshot (3).png" width="800">
+</p>
+
+<p align="center"><b>Country Analysis</b></p>
+
+---
+
+<p align="center">
+<img src="Screenshot (4).png" width="800">
+</p>
+
+<p align="center"><b>Top Competitors</b></p>
 
 
