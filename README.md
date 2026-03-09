@@ -64,7 +64,7 @@ Streamlit Platform
 <h2>📸 Application UI Preview</h2>
 
 <p align="center">
-<img src="Screenshot (1).png" width="800">
+<img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/9c330f4e225bd8fccc4de95811af8f0922671aa5/Screenshot%20(1).png width="800">
 </p>
 
 <p align="center"><b>Competition Details Viewer</b></p>
