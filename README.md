@@ -32,10 +32,9 @@ The application parses JSON data, stores structured information in a **PostgreSQ
 ## 📚 Used Libraries
 
 1. pandas
-2. numpy
-3. sqlalchemy
-4. plotly
-5. streamlit
+2. sqlalchemy
+3. plotly
+4. streamlit
 
 ---
 
