@@ -15,21 +15,21 @@ The application parses JSON data, stores structured information in a **PostgreSQ
 
 ---
 
-## ⚙️ Software Used
+##  Software Used
 
 1. VS Code
 2. pgAdmin
 
 ---
 
-## 💻 Programming Language
+##  Programming Language
 
 1. Python
 2. SQL
 
 ---
 
-## 📚 Used Libraries
+##  Used Libraries
 
 1. pandas
 2. sqlalchemy
@@ -38,7 +38,7 @@ The application parses JSON data, stores structured information in a **PostgreSQ
 
 ---
 
-## 🖥️ User Interface
+##  User Interface
 
 Streamlit Platform
 
