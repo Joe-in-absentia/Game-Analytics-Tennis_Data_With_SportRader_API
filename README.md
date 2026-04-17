@@ -71,7 +71,7 @@ Streamlit Platform
 ---
 
 <p align="center">
-<img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/01221a9e2ed48a8cf7f8b062d608c663ae37c8af/Screenshot%20(3).png width="800">
+<img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/1151ecaf8cd3bf7b69194212a5e7ba51318c59e0/country.png width="800">
 </p>
 
 <p align="center"><b>Country Analysis</b></p>
