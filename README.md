@@ -1,10 +1,10 @@
 # 🎾 Tennis Data Analytics using Sportradar API
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-purple)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
 ---
 
