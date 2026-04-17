@@ -79,7 +79,7 @@ Streamlit Platform
 ---
 
 <p align="center">
-<img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/05902ad5c9c741178a3d1c701c3f420137012e8c/Screenshot%20(4).png width="800">
+<img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/6c67c726bbfb0a189f3df0dde35abe80525ddd5d/leaderboard.png width="800">
 </p>
 
 <p align="center"><b>Top Competitors</b></p>
