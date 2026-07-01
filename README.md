@@ -60,7 +60,7 @@ Streamlit Platform
 
 ---
 
-<h2>📸 Application UI Preview</h2>
+<h2> Application UI Preview</h2>
 
 <p align="center">
 <img src=https://github.com/Joe-in-absentia/Game-Analytics-Tennis_Data_With_SportRader_API/blob/d8d55e35aad3727d8df893ed9e24b8168fdc1a3c/details.png width="800">
